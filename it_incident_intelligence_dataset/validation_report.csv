@@ -1,0 +1,18 @@
+check,value,result
+Total incident records,750,PASS
+Duplicate incident IDs,0,PASS
+Incident ID format,INC-######,PASS
+Services represented,16,PASS
+Categories represented,8,PASS
+Assignment groups represented,9,PASS
+Category/service integrity,validated,PASS
+Service/criticality integrity,validated,PASS
+Assignment/service/lifecycle integrity,validated,PASS
+Allowed categorical values,validated,PASS
+Status/resolution integrity,validated,PASS
+P1 records,169,PASS
+P2 records,290,PASS
+P3 records,219,PASS
+P4 records,72,PASS
+ML feature count,7,PASS
+Validation errors,0,PASS

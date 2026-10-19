@@ -1,0 +1,9 @@
+category_id,category_name,description
+CAT001,Network,Network connectivity and communication services
+CAT002,Application,Business and enterprise application issues
+CAT003,Database,Database availability performance and connectivity
+CAT004,Infrastructure,Servers compute storage and infrastructure services
+CAT005,Security,Security related incidents and controls
+CAT006,Access,User authentication authorization and access issues
+CAT007,Hardware,Physical endpoint and computing hardware issues
+CAT008,Cloud,Cloud infrastructure and cloud service issues

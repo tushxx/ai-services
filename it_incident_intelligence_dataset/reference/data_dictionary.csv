@@ -1,0 +1,16 @@
+column_name,data_type,business_definition,validation_rule
+incident_id,String,Unique business incident identifier,Not null; unique; format INC-######
+title,String,Short incident summary,Not null
+description,String,Detailed incident description,Not null
+category,Categorical,High-level incident category,Must match service catalog
+service,Categorical,Affected enterprise IT service,Must exist in service catalog
+impact,Categorical,Business impact level,Low/Medium/High/Critical
+urgency,Categorical,Required response urgency,Low/Medium/High/Critical
+affected_users,Integer,Number of users affected,Must be >= 1
+service_criticality,Categorical,Business criticality of affected service,Standard/Important/Business_Critical/Mission_Critical
+reported_source,Categorical,Origin of the incident report,Must exist in source reference
+assignment_group,Categorical,Support group responsible for incident,Must match service catalog
+status,Categorical,Incident lifecycle state,NEW/ASSIGNED/IN_PROGRESS/RESOLVED/CLOSED
+priority,Categorical,Final business priority and ML target,P1/P2/P3/P4
+resolution_time_hours,Float,Time used to resolve/handle incident,Blank for NEW/ASSIGNED; positive otherwise
+created_date,DateTime,Incident creation timestamp,YYYY-MM-DD HH:MM:SS

@@ -1,0 +1,5 @@
+criticality_id,criticality_name,description,criticality_rank
+CRT001,Standard,Service has limited business dependency,1
+CRT002,Important,Service supports important business activities,2
+CRT003,Business_Critical,Service directly supports critical business operations,3
+CRT004,Mission_Critical,Service availability is essential to core enterprise operations,4

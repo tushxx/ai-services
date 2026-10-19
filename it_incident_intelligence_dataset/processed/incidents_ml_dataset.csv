@@ -1,0 +1,751 @@
+category,service,impact,urgency,affected_users,service_criticality,reported_source,priority
+Hardware,Endpoint Management,Medium,Medium,40,Important,Service Portal,P3
+Network,DNS Service,Medium,Medium,25,Important,Support Engineer,P3
+Infrastructure,Virtualization Platform,Low,Medium,3,Business_Critical,Service Portal,P3
+Cloud,Cloud Infrastructure,Medium,High,40,Business_Critical,Monitoring Alert,P2
+Application,Email Service,Critical,High,1000,Business_Critical,Support Engineer,P1
+Application,ERP Platform,Critical,High,500,Mission_Critical,Support Engineer,P1
+Infrastructure,Virtualization Platform,Low,Medium,2,Business_Critical,Service Portal,P3
+Application,ERP Platform,Medium,Medium,150,Mission_Critical,Service Portal,P2
+Application,Payroll Application,High,Medium,30,Business_Critical,Email,P2
+Network,Corporate VPN,Medium,Medium,15,Business_Critical,Service Portal,P3
+Database,Database Platform,Critical,High,200,Mission_Critical,Automated Detection,P1
+Application,Email Service,High,Medium,75,Business_Critical,Monitoring Alert,P2
+Application,CRM Platform,High,Medium,50,Important,Email,P3
+Application,Email Service,Medium,Medium,100,Business_Critical,Service Portal,P3
+Network,Corporate VPN,Critical,Critical,500,Business_Critical,Monitoring Alert,P1
+Infrastructure,File Storage,Low,Low,3,Important,Monitoring Alert,P4
+Application,Monitoring Platform,High,High,100,Important,Email,P2
+Application,ERP Platform,Critical,Critical,1000,Mission_Critical,Support Engineer,P1
+Network,Corporate VPN,Medium,High,25,Business_Critical,Phone,P2
+Application,ERP Platform,Critical,Critical,500,Mission_Critical,Email,P1
+Infrastructure,File Storage,Medium,High,100,Important,Phone,P3
+Cloud,Cloud Infrastructure,Critical,Critical,350,Business_Critical,Service Portal,P1
+Database,Database Platform,Medium,High,100,Mission_Critical,Monitoring Alert,P2
+Infrastructure,File Storage,Low,Medium,5,Important,Monitoring Alert,P4
+Cloud,Cloud Infrastructure,High,High,100,Business_Critical,Monitoring Alert,P1
+Access,Identity Management,Critical,High,250,Mission_Critical,Service Portal,P1
+Database,Database Platform,Medium,High,40,Mission_Critical,Automated Detection,P2
+Application,Payroll Application,High,High,100,Business_Critical,Monitoring Alert,P2
+Application,Email Service,High,Medium,50,Business_Critical,Support Engineer,P2
+Cloud,Cloud Infrastructure,Medium,High,40,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,Medium,High,10,Business_Critical,Email,P2
+Database,Database Platform,High,Critical,300,Mission_Critical,Automated Detection,P1
+Cloud,Cloud Infrastructure,Critical,Critical,250,Business_Critical,Service Portal,P1
+Network,Corporate Network,Critical,Critical,500,Business_Critical,Service Portal,P1
+Network,Corporate Network,High,High,150,Business_Critical,Support Engineer,P2
+Infrastructure,File Storage,Medium,Medium,5,Important,Phone,P3
+Infrastructure,File Storage,Medium,Medium,150,Important,Support Engineer,P3
+Cloud,Cloud Infrastructure,High,High,100,Business_Critical,Automated Detection,P2
+Database,Database Platform,Critical,High,350,Mission_Critical,Email,P1
+Security,Security Monitoring,Critical,High,350,Mission_Critical,Automated Detection,P1
+Hardware,Endpoint Management,Medium,Medium,15,Important,Email,P3
+Application,Email Service,Medium,High,100,Business_Critical,Automated Detection,P2
+Database,Database Platform,Medium,Medium,5,Mission_Critical,Monitoring Alert,P2
+Network,Corporate Network,Critical,High,200,Business_Critical,Support Engineer,P2
+Infrastructure,Virtualization Platform,Critical,High,350,Business_Critical,Automated Detection,P2
+Application,Payroll Application,Critical,High,500,Business_Critical,Phone,P1
+Application,Email Service,Medium,Medium,10,Business_Critical,Support Engineer,P4
+Application,ERP Platform,Critical,Critical,500,Mission_Critical,Support Engineer,P1
+Application,IT Service Portal,Low,Medium,1,Important,Monitoring Alert,P4
+Application,IT Service Portal,Low,Low,8,Important,Support Engineer,P4
+Access,Identity Management,Medium,High,5,Mission_Critical,Support Engineer,P2
+Database,Database Platform,Medium,High,100,Mission_Critical,Service Portal,P2
+Application,Email Service,Critical,Critical,200,Business_Critical,Email,P1
+Application,Email Service,Medium,High,60,Business_Critical,Email,P2
+Network,Corporate VPN,High,Medium,75,Business_Critical,Email,P2
+Application,Email Service,Critical,Critical,750,Business_Critical,Service Portal,P1
+Network,Corporate Network,Critical,High,1500,Business_Critical,Support Engineer,P1
+Application,IT Service Portal,Medium,High,10,Important,Support Engineer,P3
+Application,CRM Platform,Medium,Medium,10,Important,Support Engineer,P3
+Application,Email Service,Critical,Critical,150,Business_Critical,Service Portal,P1
+Application,IT Service Portal,Low,Low,12,Important,Email,P4
+Application,Email Service,Critical,High,750,Business_Critical,Monitoring Alert,P1
+Cloud,Cloud Infrastructure,High,Medium,150,Business_Critical,Monitoring Alert,P2
+Application,Email Service,Medium,Medium,5,Business_Critical,Email,P3
+Database,Database Platform,Critical,Critical,500,Mission_Critical,Automated Detection,P1
+Application,CRM Platform,High,Medium,75,Important,Support Engineer,P3
+Application,Email Service,High,High,150,Business_Critical,Phone,P2
+Network,Corporate VPN,Critical,High,250,Business_Critical,Service Portal,P2
+Infrastructure,File Storage,Medium,Medium,15,Important,Service Portal,P2
+Application,CRM Platform,Medium,High,5,Important,Service Portal,P3
+Network,DNS Service,Medium,High,40,Important,Email,P3
+Application,Payroll Application,High,Medium,200,Business_Critical,Support Engineer,P2
+Network,Corporate Network,Medium,High,15,Business_Critical,Service Portal,P2
+Network,Corporate Network,Low,Medium,8,Business_Critical,Monitoring Alert,P3
+Database,Database Platform,Critical,Critical,1500,Mission_Critical,Service Portal,P1
+Network,Corporate VPN,Medium,High,25,Business_Critical,Service Portal,P2
+Cloud,Cloud Infrastructure,Critical,High,500,Business_Critical,Automated Detection,P1
+Network,Corporate VPN,High,High,75,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,High,Medium,100,Important,Email,P3
+Infrastructure,Virtualization Platform,Medium,High,60,Business_Critical,Support Engineer,P2
+Application,Email Service,High,High,75,Business_Critical,Monitoring Alert,P2
+Application,Email Service,Critical,High,1000,Business_Critical,Monitoring Alert,P1
+Application,Payroll Application,High,High,150,Business_Critical,Email,P2
+Network,Corporate Network,Critical,High,250,Business_Critical,Email,P2
+Infrastructure,File Storage,High,Medium,500,Important,Email,P2
+Network,Corporate VPN,Medium,High,40,Business_Critical,Service Portal,P2
+Database,Database Platform,Critical,Critical,750,Mission_Critical,Monitoring Alert,P1
+Cloud,Cloud Infrastructure,Critical,Critical,250,Business_Critical,Monitoring Alert,P1
+Application,Email Service,Medium,High,100,Business_Critical,Email,P2
+Infrastructure,Virtualization Platform,Low,Medium,8,Business_Critical,Phone,P3
+Application,Payroll Application,High,Medium,100,Business_Critical,Automated Detection,P2
+Application,Payroll Application,Critical,High,350,Business_Critical,Email,P2
+Network,Corporate VPN,High,Medium,75,Business_Critical,Service Portal,P2
+Network,Corporate Network,Critical,High,500,Business_Critical,Monitoring Alert,P2
+Infrastructure,Virtualization Platform,High,High,150,Business_Critical,Phone,P2
+Hardware,Endpoint Management,High,High,30,Important,Service Portal,P3
+Network,Corporate Network,Critical,High,200,Business_Critical,Monitoring Alert,P2
+Access,Identity Management,Medium,Medium,40,Mission_Critical,Service Portal,P2
+Application,Email Service,Critical,High,500,Business_Critical,Service Portal,P1
+Application,Email Service,Medium,Medium,60,Business_Critical,Support Engineer,P3
+Network,Corporate Network,High,High,150,Business_Critical,Service Portal,P2
+Application,ERP Platform,Medium,Medium,100,Mission_Critical,Service Portal,P2
+Security,Security Monitoring,High,High,200,Mission_Critical,Monitoring Alert,P2
+Hardware,Endpoint Management,Medium,High,40,Important,Phone,P3
+Application,Email Service,High,High,150,Business_Critical,Service Portal,P2
+Cloud,Cloud Infrastructure,High,High,200,Business_Critical,Email,P2
+Access,Identity Management,Critical,High,200,Mission_Critical,Service Portal,P1
+Application,Email Service,Medium,Medium,100,Business_Critical,Email,P3
+Network,Corporate VPN,High,Low,150,Business_Critical,Monitoring Alert,P3
+Network,Corporate Network,Critical,High,500,Business_Critical,Support Engineer,P1
+Application,ERP Platform,Medium,High,60,Mission_Critical,Service Portal,P2
+Network,Corporate VPN,Medium,Medium,25,Business_Critical,Automated Detection,P3
+Application,Email Service,High,Medium,75,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,Medium,High,10,Business_Critical,Support Engineer,P2
+Access,Identity Management,Critical,High,350,Mission_Critical,Automated Detection,P1
+Security,Security Monitoring,Critical,High,350,Mission_Critical,Automated Detection,P1
+Network,Corporate Network,High,Medium,50,Business_Critical,Service Portal,P2
+Network,Corporate VPN,Critical,High,500,Business_Critical,Phone,P1
+Network,Corporate VPN,High,Medium,100,Business_Critical,Automated Detection,P2
+Network,Corporate VPN,High,High,150,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,High,Medium,75,Important,Service Portal,P3
+Application,Payroll Application,High,Medium,300,Business_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,High,High,75,Business_Critical,Support Engineer,P2
+Network,Corporate VPN,Critical,Critical,1000,Business_Critical,Monitoring Alert,P1
+Access,Identity Management,Critical,High,750,Mission_Critical,Phone,P1
+Cloud,Cloud Infrastructure,Critical,Critical,350,Business_Critical,Automated Detection,P1
+Database,Database Platform,High,High,75,Mission_Critical,Service Portal,P2
+Network,Corporate Network,Critical,Critical,350,Business_Critical,Phone,P1
+Application,Monitoring Platform,Low,Low,5,Important,Automated Detection,P4
+Network,Corporate VPN,High,Medium,200,Business_Critical,Phone,P2
+Network,DNS Service,High,Medium,75,Important,Automated Detection,P3
+Access,Identity Management,Critical,Critical,250,Mission_Critical,Monitoring Alert,P1
+Security,Security Monitoring,Medium,High,25,Mission_Critical,Automated Detection,P2
+Application,Email Service,Low,Medium,2,Business_Critical,Service Portal,P3
+Application,ERP Platform,High,High,150,Mission_Critical,Email,P2
+Network,Corporate VPN,Medium,Medium,25,Business_Critical,Service Portal,P3
+Application,Monitoring Platform,Medium,High,40,Important,Support Engineer,P3
+Database,Database Platform,Critical,Critical,200,Mission_Critical,Email,P1
+Application,Email Service,Medium,Medium,10,Business_Critical,Support Engineer,P3
+Network,Corporate VPN,Critical,Critical,150,Business_Critical,Monitoring Alert,P1
+Database,Database Platform,High,Critical,30,Mission_Critical,Service Portal,P1
+Cloud,Cloud Infrastructure,High,Low,75,Business_Critical,Monitoring Alert,P4
+Infrastructure,Virtualization Platform,Medium,Medium,40,Business_Critical,Service Portal,P3
+Application,Monitoring Platform,Medium,High,5,Important,Monitoring Alert,P3
+Cloud,Cloud Infrastructure,Critical,High,1500,Business_Critical,Service Portal,P1
+Application,Email Service,Critical,High,500,Business_Critical,Service Portal,P1
+Access,Identity Management,Critical,Critical,750,Mission_Critical,Service Portal,P1
+Infrastructure,File Storage,Medium,Medium,10,Important,Service Portal,P3
+Network,Corporate Network,Medium,Medium,60,Business_Critical,Automated Detection,P3
+Access,Identity Management,High,High,200,Mission_Critical,Phone,P2
+Network,Corporate VPN,High,Medium,50,Business_Critical,Service Portal,P2
+Application,Email Service,Medium,High,10,Business_Critical,Automated Detection,P2
+Application,ERP Platform,Critical,High,750,Mission_Critical,Automated Detection,P1
+Network,Corporate VPN,Medium,Medium,100,Business_Critical,Service Portal,P3
+Cloud,Cloud Infrastructure,Medium,High,60,Business_Critical,Monitoring Alert,P2
+Network,Corporate Network,Critical,High,750,Business_Critical,Support Engineer,P1
+Network,Corporate VPN,High,Medium,200,Business_Critical,Service Portal,P2
+Network,Corporate VPN,Medium,Medium,10,Business_Critical,Monitoring Alert,P3
+Network,DNS Service,Medium,High,15,Important,Service Portal,P3
+Application,IT Service Portal,High,High,30,Important,Email,P2
+Infrastructure,Virtualization Platform,High,High,200,Business_Critical,Automated Detection,P2
+Access,Identity Management,Medium,High,40,Mission_Critical,Monitoring Alert,P2
+Application,IT Service Portal,Medium,High,5,Important,Service Portal,P3
+Network,DNS Service,Medium,High,25,Important,Phone,P3
+Network,Corporate VPN,Critical,High,500,Business_Critical,Phone,P1
+Cloud,Cloud Infrastructure,High,High,100,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,Critical,Critical,150,Business_Critical,Automated Detection,P1
+Network,DNS Service,High,Medium,50,Important,Service Portal,P3
+Application,Email Service,Critical,High,750,Business_Critical,Monitoring Alert,P1
+Application,CRM Platform,High,Medium,200,Important,Service Portal,P3
+Infrastructure,Virtualization Platform,Critical,High,350,Business_Critical,Monitoring Alert,P2
+Database,Database Platform,Critical,High,200,Mission_Critical,Monitoring Alert,P1
+Network,DNS Service,Critical,High,250,Important,Service Portal,P3
+Infrastructure,Virtualization Platform,High,Medium,300,Business_Critical,Email,P2
+Application,CRM Platform,Low,Medium,1,Important,Service Portal,P4
+Network,DNS Service,Low,Low,2,Important,Support Engineer,P4
+Network,Corporate Network,Medium,High,5,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,High,Medium,30,Important,Email,P3
+Database,Database Platform,High,High,75,Mission_Critical,Email,P2
+Application,CRM Platform,Low,Low,3,Important,Monitoring Alert,P4
+Hardware,Endpoint Management,Medium,High,15,Important,Support Engineer,P3
+Network,Corporate Network,High,High,200,Business_Critical,Service Portal,P2
+Application,CRM Platform,Low,Medium,2,Important,Service Portal,P4
+Network,Corporate Network,Medium,High,5,Business_Critical,Service Portal,P2
+Infrastructure,File Storage,High,Medium,75,Important,Service Portal,P3
+Application,ERP Platform,Medium,Medium,25,Mission_Critical,Service Portal,P2
+Access,Identity Management,Medium,High,40,Mission_Critical,Automated Detection,P2
+Hardware,Endpoint Management,Medium,Medium,25,Important,Support Engineer,P3
+Database,Database Platform,High,High,30,Mission_Critical,Automated Detection,P2
+Application,Payroll Application,High,Medium,75,Business_Critical,Service Portal,P3
+Network,Corporate VPN,Critical,Critical,200,Business_Critical,Service Portal,P1
+Application,ERP Platform,Critical,High,1000,Mission_Critical,Service Portal,P1
+Network,DNS Service,High,High,150,Important,Support Engineer,P1
+Infrastructure,Virtualization Platform,Medium,High,100,Business_Critical,Support Engineer,P2
+Network,Corporate VPN,Critical,High,500,Business_Critical,Monitoring Alert,P1
+Hardware,Endpoint Management,Low,Medium,3,Important,Service Portal,P4
+Database,Database Platform,High,Critical,30,Mission_Critical,Monitoring Alert,P1
+Hardware,Endpoint Management,Low,Low,2,Important,Support Engineer,P4
+Application,CRM Platform,Medium,High,15,Important,Service Portal,P3
+Network,Corporate VPN,Medium,High,60,Business_Critical,Email,P2
+Application,Payroll Application,High,High,75,Business_Critical,Email,P2
+Cloud,Cloud Infrastructure,Critical,Critical,750,Business_Critical,Monitoring Alert,P1
+Access,Identity Management,High,Critical,75,Mission_Critical,Service Portal,P1
+Infrastructure,Virtualization Platform,Critical,High,1500,Business_Critical,Service Portal,P1
+Hardware,Endpoint Management,Low,Low,5,Important,Email,P4
+Infrastructure,File Storage,High,Medium,75,Important,Monitoring Alert,P3
+Security,Security Monitoring,High,Critical,100,Mission_Critical,Email,P1
+Application,Email Service,Medium,Medium,100,Business_Critical,Service Portal,P3
+Network,Corporate VPN,High,Low,300,Business_Critical,Service Portal,P3
+Database,Database Platform,Medium,Medium,15,Mission_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Critical,Critical,750,Business_Critical,Automated Detection,P1
+Access,Identity Management,Critical,Critical,350,Mission_Critical,Service Portal,P1
+Cloud,Cloud Infrastructure,High,Medium,150,Business_Critical,Email,P2
+Application,Payroll Application,Critical,Critical,250,Business_Critical,Email,P1
+Hardware,Endpoint Management,High,Medium,150,Important,Phone,P4
+Infrastructure,File Storage,Medium,Medium,15,Important,Service Portal,P3
+Application,CRM Platform,Low,Low,5,Important,Email,P4
+Application,Monitoring Platform,Medium,High,100,Important,Support Engineer,P2
+Network,Corporate VPN,Critical,High,1500,Business_Critical,Email,P2
+Application,Payroll Application,High,High,100,Business_Critical,Email,P2
+Network,Corporate Network,Medium,Medium,40,Business_Critical,Monitoring Alert,P3
+Infrastructure,Virtualization Platform,Low,Medium,2,Business_Critical,Support Engineer,P3
+Access,Identity Management,Critical,Critical,350,Mission_Critical,Service Portal,P1
+Application,Payroll Application,Medium,High,60,Business_Critical,Service Portal,P2
+Database,Database Platform,Critical,High,500,Mission_Critical,Monitoring Alert,P1
+Cloud,Cloud Infrastructure,Critical,Critical,150,Business_Critical,Support Engineer,P1
+Cloud,Cloud Infrastructure,High,High,50,Business_Critical,Service Portal,P2
+Access,Identity Management,Critical,High,200,Mission_Critical,Support Engineer,P1
+Infrastructure,File Storage,Medium,Medium,10,Important,Monitoring Alert,P3
+Infrastructure,File Storage,Low,Low,1,Important,Support Engineer,P4
+Infrastructure,Virtualization Platform,Medium,High,15,Business_Critical,Phone,P2
+Access,Identity Management,Medium,High,40,Mission_Critical,Monitoring Alert,P2
+Application,Monitoring Platform,Low,Medium,1,Important,Automated Detection,P4
+Application,CRM Platform,Low,Low,12,Important,Phone,P4
+Network,Corporate VPN,High,High,150,Business_Critical,Service Portal,P2
+Network,Corporate Network,High,High,150,Business_Critical,Phone,P2
+Network,Corporate Network,Critical,Critical,1000,Business_Critical,Service Portal,P1
+Network,Corporate Network,Critical,High,500,Business_Critical,Monitoring Alert,P1
+Database,Database Platform,High,Critical,100,Mission_Critical,Service Portal,P1
+Infrastructure,File Storage,Medium,Medium,10,Important,Service Portal,P3
+Security,Security Monitoring,Critical,Critical,200,Mission_Critical,Support Engineer,P1
+Access,Identity Management,Critical,High,500,Mission_Critical,Email,P1
+Application,CRM Platform,High,Medium,100,Important,Support Engineer,P3
+Database,Database Platform,Critical,High,200,Mission_Critical,Monitoring Alert,P1
+Infrastructure,Virtualization Platform,High,High,300,Business_Critical,Service Portal,P1
+Application,Email Service,Medium,High,60,Business_Critical,Service Portal,P2
+Application,Email Service,Medium,High,10,Business_Critical,Support Engineer,P2
+Application,CRM Platform,Medium,Medium,60,Important,Email,P3
+Access,Identity Management,Critical,Critical,1500,Mission_Critical,Monitoring Alert,P1
+Application,CRM Platform,Low,Medium,3,Important,Service Portal,P4
+Network,Corporate VPN,High,High,150,Business_Critical,Monitoring Alert,P2
+Application,Email Service,High,Medium,30,Business_Critical,Service Portal,P2
+Application,Payroll Application,High,Medium,100,Business_Critical,Service Portal,P2
+Application,ERP Platform,Medium,Medium,60,Mission_Critical,Support Engineer,P2
+Hardware,Endpoint Management,Medium,Medium,25,Important,Service Portal,P3
+Infrastructure,Virtualization Platform,High,Low,50,Business_Critical,Automated Detection,P3
+Network,Corporate VPN,Critical,High,750,Business_Critical,Support Engineer,P1
+Access,Identity Management,Medium,High,60,Mission_Critical,Email,P2
+Hardware,Endpoint Management,High,High,50,Important,Email,P2
+Network,Corporate VPN,Medium,Medium,40,Business_Critical,Automated Detection,P3
+Application,Email Service,Medium,Medium,60,Business_Critical,Service Portal,P3
+Network,Corporate VPN,Critical,Critical,1000,Business_Critical,Monitoring Alert,P1
+Access,Identity Management,Medium,High,150,Mission_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,Critical,Critical,350,Business_Critical,Service Portal,P1
+Application,Email Service,Low,Medium,5,Business_Critical,Service Portal,P3
+Database,Database Platform,Medium,High,100,Mission_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Medium,Medium,5,Business_Critical,Support Engineer,P3
+Application,Monitoring Platform,High,Medium,150,Important,Monitoring Alert,P3
+Network,DNS Service,Low,Low,1,Important,Service Portal,P4
+Application,CRM Platform,Low,Medium,20,Important,Automated Detection,P4
+Cloud,Cloud Infrastructure,High,High,30,Business_Critical,Automated Detection,P2
+Cloud,Cloud Infrastructure,Medium,Medium,25,Business_Critical,Support Engineer,P4
+Application,IT Service Portal,Medium,Medium,25,Important,Service Portal,P3
+Cloud,Cloud Infrastructure,High,High,150,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,Medium,High,25,Business_Critical,Automated Detection,P2
+Application,IT Service Portal,Medium,High,60,Important,Service Portal,P4
+Network,Corporate Network,Medium,High,5,Business_Critical,Service Portal,P2
+Application,Email Service,Medium,Medium,60,Business_Critical,Monitoring Alert,P3
+Infrastructure,Virtualization Platform,High,High,50,Business_Critical,Service Portal,P2
+Application,CRM Platform,Low,Low,8,Important,Email,P4
+Infrastructure,File Storage,Low,Medium,2,Important,Email,P4
+Application,ERP Platform,Critical,Critical,200,Mission_Critical,Monitoring Alert,P1
+Database,Database Platform,Critical,Critical,500,Mission_Critical,Service Portal,P1
+Security,Security Monitoring,Medium,High,40,Mission_Critical,Service Portal,P2
+Application,Email Service,High,High,150,Business_Critical,Service Portal,P2
+Network,Corporate Network,Medium,Medium,15,Business_Critical,Service Portal,P3
+Database,Database Platform,High,Critical,30,Mission_Critical,Automated Detection,P1
+Application,Email Service,Medium,High,10,Business_Critical,Phone,P2
+Network,DNS Service,Low,Low,3,Important,Service Portal,P4
+Network,Corporate VPN,Medium,Medium,25,Business_Critical,Email,P3
+Application,Email Service,High,High,300,Business_Critical,Support Engineer,P2
+Access,Identity Management,Critical,Critical,500,Mission_Critical,Support Engineer,P1
+Application,CRM Platform,High,Medium,150,Important,Monitoring Alert,P3
+Application,Email Service,Critical,Critical,500,Business_Critical,Monitoring Alert,P1
+Application,IT Service Portal,Medium,High,40,Important,Support Engineer,P3
+Security,Security Monitoring,Medium,High,10,Mission_Critical,Monitoring Alert,P2
+Database,Database Platform,Critical,High,750,Mission_Critical,Automated Detection,P1
+Application,CRM Platform,High,Medium,100,Important,Email,P4
+Network,Corporate VPN,High,Medium,30,Business_Critical,Service Portal,P2
+Network,DNS Service,Low,Medium,20,Important,Service Portal,P4
+Network,Corporate Network,Medium,Medium,5,Business_Critical,Monitoring Alert,P3
+Application,Email Service,Medium,Medium,100,Business_Critical,Phone,P3
+Cloud,Cloud Infrastructure,Critical,High,200,Business_Critical,Monitoring Alert,P1
+Infrastructure,Virtualization Platform,Low,Medium,5,Business_Critical,Service Portal,P3
+Security,Security Monitoring,Medium,Medium,15,Mission_Critical,Automated Detection,P2
+Database,Database Platform,Medium,High,60,Mission_Critical,Automated Detection,P2
+Cloud,Cloud Infrastructure,High,High,100,Business_Critical,Monitoring Alert,P3
+Infrastructure,Virtualization Platform,Low,Medium,1,Business_Critical,Monitoring Alert,P3
+Cloud,Cloud Infrastructure,Medium,High,15,Business_Critical,Monitoring Alert,P2
+Application,Email Service,Medium,High,15,Business_Critical,Service Portal,P2
+Application,CRM Platform,Medium,Medium,100,Important,Service Portal,P3
+Access,Identity Management,High,Critical,150,Mission_Critical,Service Portal,P1
+Network,Corporate VPN,High,Medium,75,Business_Critical,Service Portal,P2
+Network,Corporate Network,Critical,High,1000,Business_Critical,Monitoring Alert,P2
+Application,Payroll Application,High,High,200,Business_Critical,Support Engineer,P2
+Cloud,Cloud Infrastructure,Medium,High,100,Business_Critical,Service Portal,P2
+Database,Database Platform,Medium,High,15,Mission_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,High,Medium,30,Business_Critical,Support Engineer,P2
+Database,Database Platform,Medium,High,60,Mission_Critical,Service Portal,P2
+Database,Database Platform,Critical,High,500,Mission_Critical,Support Engineer,P1
+Network,Corporate Network,Critical,High,1000,Business_Critical,Support Engineer,P1
+Application,Payroll Application,Critical,Critical,350,Business_Critical,Monitoring Alert,P1
+Application,Payroll Application,High,High,200,Business_Critical,Service Portal,P2
+Network,Corporate VPN,Low,Medium,8,Business_Critical,Service Portal,P4
+Access,Identity Management,High,High,50,Mission_Critical,Email,P2
+Application,IT Service Portal,Low,Medium,3,Important,Phone,P4
+Infrastructure,File Storage,High,Medium,30,Important,Service Portal,P3
+Hardware,Endpoint Management,Medium,High,10,Important,Phone,P3
+Infrastructure,Virtualization Platform,Medium,High,40,Business_Critical,Email,P2
+Access,Identity Management,Critical,High,350,Mission_Critical,Service Portal,P1
+Infrastructure,Virtualization Platform,High,High,30,Business_Critical,Service Portal,P2
+Application,Monitoring Platform,Low,Low,5,Important,Monitoring Alert,P4
+Application,Monitoring Platform,Medium,High,25,Important,Automated Detection,P3
+Infrastructure,Virtualization Platform,Critical,High,750,Business_Critical,Service Portal,P1
+Application,Email Service,Medium,High,15,Business_Critical,Automated Detection,P1
+Database,Database Platform,Medium,High,60,Mission_Critical,Monitoring Alert,P2
+Database,Database Platform,Medium,High,10,Mission_Critical,Support Engineer,P2
+Application,Payroll Application,High,Medium,75,Business_Critical,Email,P2
+Application,ERP Platform,High,High,75,Mission_Critical,Email,P1
+Hardware,Endpoint Management,Low,Low,2,Important,Service Portal,P4
+Application,ERP Platform,High,Critical,75,Mission_Critical,Service Portal,P1
+Cloud,Cloud Infrastructure,High,Medium,75,Business_Critical,Support Engineer,P2
+Hardware,Endpoint Management,High,High,30,Important,Automated Detection,P2
+Security,Security Monitoring,High,High,100,Mission_Critical,Monitoring Alert,P2
+Access,Identity Management,High,High,75,Mission_Critical,Service Portal,P2
+Network,Corporate VPN,Medium,Medium,100,Business_Critical,Service Portal,P3
+Application,Email Service,Medium,Medium,5,Business_Critical,Service Portal,P3
+Cloud,Cloud Infrastructure,Medium,High,10,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,Critical,High,500,Important,Phone,P2
+Application,ERP Platform,High,Critical,100,Mission_Critical,Support Engineer,P1
+Infrastructure,File Storage,Medium,High,15,Important,Support Engineer,P3
+Database,Database Platform,High,Critical,30,Mission_Critical,Email,P1
+Application,CRM Platform,Low,Low,5,Important,Service Portal,P4
+Infrastructure,File Storage,Medium,Medium,25,Important,Support Engineer,P2
+Application,IT Service Portal,Medium,High,5,Important,Phone,P3
+Cloud,Cloud Infrastructure,Medium,Medium,15,Business_Critical,Monitoring Alert,P3
+Application,Email Service,Medium,High,100,Business_Critical,Service Portal,P2
+Application,ERP Platform,High,Critical,75,Mission_Critical,Service Portal,P1
+Application,Email Service,High,Medium,75,Business_Critical,Service Portal,P2
+Network,Corporate VPN,High,Medium,75,Business_Critical,Phone,P2
+Network,Corporate Network,Critical,High,1000,Business_Critical,Monitoring Alert,P1
+Cloud,Cloud Infrastructure,Medium,High,100,Business_Critical,Email,P2
+Database,Database Platform,Medium,High,10,Mission_Critical,Support Engineer,P2
+Network,Corporate VPN,Low,Medium,8,Business_Critical,Service Portal,P3
+Network,Corporate VPN,Low,Medium,3,Business_Critical,Support Engineer,P3
+Network,Corporate Network,Medium,Medium,40,Business_Critical,Monitoring Alert,P3
+Network,Corporate Network,High,High,75,Business_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,High,High,75,Business_Critical,Service Portal,P2
+Network,Corporate VPN,High,Medium,50,Business_Critical,Service Portal,P2
+Network,Corporate VPN,High,Medium,100,Business_Critical,Email,P2
+Database,Database Platform,Medium,Medium,5,Mission_Critical,Support Engineer,P2
+Network,Corporate VPN,Critical,Critical,750,Business_Critical,Monitoring Alert,P1
+Access,Identity Management,Critical,High,250,Mission_Critical,Phone,P1
+Application,Email Service,High,Medium,500,Business_Critical,Support Engineer,P2
+Network,Corporate Network,High,High,300,Business_Critical,Service Portal,P2
+Application,CRM Platform,Medium,Medium,100,Important,Service Portal,P3
+Infrastructure,File Storage,Medium,Medium,5,Important,Email,P3
+Application,IT Service Portal,Low,Medium,3,Important,Support Engineer,P4
+Security,Security Monitoring,Critical,High,350,Mission_Critical,Service Portal,P1
+Infrastructure,File Storage,Medium,High,15,Important,Monitoring Alert,P3
+Application,CRM Platform,High,High,150,Important,Service Portal,P2
+Network,Corporate VPN,High,High,30,Business_Critical,Service Portal,P2
+Access,Identity Management,Medium,Medium,100,Mission_Critical,Email,P2
+Network,Corporate Network,High,High,75,Business_Critical,Support Engineer,P2
+Application,Email Service,Medium,Medium,15,Business_Critical,Service Portal,P3
+Network,DNS Service,Medium,Medium,60,Important,Support Engineer,P3
+Security,Security Monitoring,Critical,Critical,500,Mission_Critical,Monitoring Alert,P1
+Access,Identity Management,Medium,Medium,25,Mission_Critical,Email,P2
+Infrastructure,Virtualization Platform,Low,Medium,1,Business_Critical,Email,P3
+Network,Corporate VPN,Critical,Critical,500,Business_Critical,Automated Detection,P1
+Hardware,Endpoint Management,Medium,Medium,15,Important,Service Portal,P3
+Network,Corporate Network,Medium,Medium,25,Business_Critical,Monitoring Alert,P3
+Hardware,Endpoint Management,Low,Medium,20,Important,Service Portal,P4
+Application,Payroll Application,High,High,50,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,Critical,High,200,Business_Critical,Phone,P2
+Cloud,Cloud Infrastructure,Medium,Medium,60,Business_Critical,Support Engineer,P3
+Application,Monitoring Platform,Medium,Medium,25,Important,Support Engineer,P3
+Application,Monitoring Platform,Medium,High,15,Important,Email,P3
+Infrastructure,File Storage,Low,Medium,1,Important,Service Portal,P3
+Network,Corporate Network,Medium,High,25,Business_Critical,Service Portal,P2
+Access,Identity Management,Medium,High,15,Mission_Critical,Service Portal,P2
+Network,Corporate Network,High,Low,200,Business_Critical,Email,P3
+Application,Monitoring Platform,Medium,High,15,Important,Support Engineer,P3
+Application,CRM Platform,Medium,Medium,15,Important,Email,P4
+Hardware,Endpoint Management,Medium,Medium,10,Important,Service Portal,P3
+Network,Corporate VPN,High,High,50,Business_Critical,Service Portal,P3
+Application,Payroll Application,Medium,Medium,60,Business_Critical,Email,P3
+Application,Email Service,Medium,High,40,Business_Critical,Support Engineer,P2
+Hardware,Endpoint Management,Low,Low,1,Important,Service Portal,P4
+Network,DNS Service,High,Medium,50,Important,Email,P3
+Access,Identity Management,High,High,75,Mission_Critical,Automated Detection,P2
+Hardware,Endpoint Management,Medium,Medium,5,Important,Email,P3
+Application,Payroll Application,Critical,High,150,Business_Critical,Monitoring Alert,P2
+Network,Corporate Network,Critical,High,500,Business_Critical,Service Portal,P1
+Network,Corporate VPN,Critical,High,350,Business_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,High,High,100,Business_Critical,Service Portal,P2
+Infrastructure,File Storage,High,Medium,200,Important,Service Portal,P3
+Network,Corporate Network,High,Medium,100,Business_Critical,Email,P2
+Application,Email Service,High,Medium,150,Business_Critical,Email,P2
+Network,Corporate Network,Critical,Critical,250,Business_Critical,Email,P1
+Access,Identity Management,Critical,Critical,750,Mission_Critical,Automated Detection,P1
+Application,Payroll Application,Critical,High,250,Business_Critical,Service Portal,P2
+Network,DNS Service,High,High,150,Important,Monitoring Alert,P2
+Database,Database Platform,High,High,150,Mission_Critical,Support Engineer,P2
+Application,ERP Platform,Critical,Critical,150,Mission_Critical,Service Portal,P1
+Network,Corporate Network,Low,Medium,1,Business_Critical,Service Portal,P4
+Application,CRM Platform,Medium,Medium,40,Important,Support Engineer,P3
+Cloud,Cloud Infrastructure,Critical,Critical,500,Business_Critical,Email,P1
+Cloud,Cloud Infrastructure,Medium,Medium,15,Business_Critical,Support Engineer,P3
+Application,Monitoring Platform,Medium,High,15,Important,Automated Detection,P3
+Application,Email Service,Critical,Critical,750,Business_Critical,Support Engineer,P1
+Hardware,Endpoint Management,Medium,High,40,Important,Support Engineer,P3
+Infrastructure,File Storage,Low,Medium,2,Important,Phone,P4
+Application,IT Service Portal,High,High,75,Important,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Medium,Medium,15,Business_Critical,Automated Detection,P3
+Infrastructure,Virtualization Platform,High,Medium,150,Business_Critical,Monitoring Alert,P2
+Database,Database Platform,High,High,50,Mission_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Medium,Medium,25,Business_Critical,Service Portal,P3
+Application,CRM Platform,Medium,Medium,100,Important,Service Portal,P3
+Network,Corporate VPN,High,Medium,30,Business_Critical,Monitoring Alert,P2
+Network,DNS Service,Medium,Medium,150,Important,Support Engineer,P3
+Application,Payroll Application,Medium,High,10,Business_Critical,Monitoring Alert,P2
+Application,CRM Platform,Low,Low,8,Important,Support Engineer,P4
+Application,Payroll Application,Medium,High,15,Business_Critical,Support Engineer,P2
+Application,CRM Platform,High,High,300,Important,Monitoring Alert,P2
+Database,Database Platform,Critical,High,150,Mission_Critical,Monitoring Alert,P1
+Application,ERP Platform,Medium,High,25,Mission_Critical,Service Portal,P2
+Network,Corporate VPN,Medium,Medium,25,Business_Critical,Support Engineer,P3
+Network,Corporate Network,Medium,Medium,10,Business_Critical,Email,P3
+Cloud,Cloud Infrastructure,High,Medium,50,Business_Critical,Automated Detection,P3
+Database,Database Platform,Medium,Medium,15,Mission_Critical,Service Portal,P2
+Database,Database Platform,Critical,Critical,200,Mission_Critical,Service Portal,P1
+Infrastructure,Virtualization Platform,Medium,Medium,15,Business_Critical,Support Engineer,P3
+Application,ERP Platform,Medium,Medium,15,Mission_Critical,Service Portal,P2
+Database,Database Platform,High,Critical,50,Mission_Critical,Support Engineer,P1
+Network,Corporate VPN,Medium,Medium,5,Business_Critical,Support Engineer,P3
+Network,Corporate Network,High,High,100,Business_Critical,Monitoring Alert,P2
+Hardware,Endpoint Management,High,Medium,75,Important,Support Engineer,P3
+Database,Database Platform,Critical,High,500,Mission_Critical,Monitoring Alert,P1
+Hardware,Endpoint Management,Medium,Medium,60,Important,Support Engineer,P3
+Network,Corporate VPN,High,High,300,Business_Critical,Service Portal,P2
+Application,ERP Platform,High,Critical,200,Mission_Critical,Service Portal,P1
+Application,Monitoring Platform,Low,Low,2,Important,Monitoring Alert,P4
+Cloud,Cloud Infrastructure,Medium,High,40,Business_Critical,Monitoring Alert,P2
+Access,Identity Management,High,Critical,50,Mission_Critical,Service Portal,P2
+Infrastructure,File Storage,Low,Low,3,Important,Service Portal,P4
+Cloud,Cloud Infrastructure,High,High,150,Business_Critical,Monitoring Alert,P2
+Network,Corporate Network,Critical,High,1000,Business_Critical,Support Engineer,P1
+Infrastructure,File Storage,Medium,Medium,5,Important,Service Portal,P3
+Network,Corporate Network,Critical,Critical,500,Business_Critical,Phone,P1
+Network,Corporate Network,Critical,Critical,350,Business_Critical,Service Portal,P1
+Database,Database Platform,Medium,High,60,Mission_Critical,Monitoring Alert,P2
+Application,CRM Platform,Medium,Medium,25,Important,Service Portal,P3
+Application,ERP Platform,Medium,Medium,25,Mission_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,Medium,High,15,Business_Critical,Support Engineer,P2
+Application,ERP Platform,Critical,High,350,Mission_Critical,Monitoring Alert,P1
+Network,Corporate Network,High,Medium,150,Business_Critical,Service Portal,P2
+Network,Corporate VPN,Medium,High,15,Business_Critical,Support Engineer,P2
+Application,Email Service,High,High,50,Business_Critical,Support Engineer,P2
+Access,Identity Management,Critical,High,250,Mission_Critical,Service Portal,P1
+Cloud,Cloud Infrastructure,High,High,30,Business_Critical,Monitoring Alert,P1
+Network,Corporate VPN,Medium,High,15,Business_Critical,Automated Detection,P2
+Database,Database Platform,Critical,High,500,Mission_Critical,Monitoring Alert,P1
+Database,Database Platform,High,High,100,Mission_Critical,Monitoring Alert,P2
+Infrastructure,File Storage,Low,Medium,1,Important,Email,P4
+Database,Database Platform,Medium,Medium,10,Mission_Critical,Support Engineer,P2
+Access,Identity Management,Medium,High,60,Mission_Critical,Email,P2
+Database,Database Platform,High,Critical,200,Mission_Critical,Support Engineer,P1
+Application,Payroll Application,Medium,Medium,25,Business_Critical,Automated Detection,P3
+Network,DNS Service,High,Medium,50,Important,Service Portal,P3
+Application,IT Service Portal,Medium,High,40,Important,Email,P3
+Network,Corporate VPN,Low,Medium,8,Business_Critical,Phone,P3
+Application,CRM Platform,Low,Medium,2,Important,Service Portal,P4
+Application,Payroll Application,Low,Medium,2,Business_Critical,Service Portal,P3
+Application,Monitoring Platform,High,Medium,75,Important,Automated Detection,P3
+Network,DNS Service,Medium,Medium,5,Important,Service Portal,P3
+Application,Email Service,Critical,High,1000,Business_Critical,Service Portal,P1
+Application,CRM Platform,Medium,Medium,25,Important,Service Portal,P3
+Network,DNS Service,Critical,High,1000,Important,Phone,P2
+Application,Monitoring Platform,Low,Medium,3,Important,Monitoring Alert,P4
+Database,Database Platform,Medium,Medium,15,Mission_Critical,Email,P2
+Application,Payroll Application,High,High,50,Business_Critical,Service Portal,P2
+Application,IT Service Portal,High,Medium,200,Important,Service Portal,P3
+Infrastructure,File Storage,Medium,Medium,100,Important,Monitoring Alert,P3
+Hardware,Endpoint Management,Medium,Medium,25,Important,Support Engineer,P3
+Access,Identity Management,Critical,Critical,750,Mission_Critical,Service Portal,P1
+Network,Corporate VPN,Critical,Critical,1000,Business_Critical,Service Portal,P1
+Network,Corporate Network,High,Medium,200,Business_Critical,Service Portal,P2
+Application,ERP Platform,Critical,Critical,500,Mission_Critical,Service Portal,P1
+Security,Security Monitoring,High,High,50,Mission_Critical,Monitoring Alert,P2
+Database,Database Platform,Critical,High,750,Mission_Critical,Monitoring Alert,P1
+Infrastructure,Virtualization Platform,Low,Medium,2,Business_Critical,Email,P3
+Hardware,Endpoint Management,Low,Medium,5,Important,Monitoring Alert,P4
+Application,Payroll Application,High,High,200,Business_Critical,Support Engineer,P2
+Access,Identity Management,Critical,Critical,1500,Mission_Critical,Phone,P1
+Application,CRM Platform,Medium,High,40,Important,Support Engineer,P3
+Application,ERP Platform,Critical,High,200,Mission_Critical,Service Portal,P1
+Application,CRM Platform,Medium,High,5,Important,Service Portal,P3
+Application,CRM Platform,Low,Medium,1,Important,Service Portal,P4
+Application,ERP Platform,High,Critical,100,Mission_Critical,Service Portal,P1
+Network,Corporate Network,Medium,Medium,15,Business_Critical,Service Portal,P3
+Network,Corporate VPN,Critical,High,750,Business_Critical,Service Portal,P1
+Network,Corporate VPN,Critical,High,200,Business_Critical,Monitoring Alert,P2
+Infrastructure,File Storage,Low,Low,1,Important,Service Portal,P4
+Database,Database Platform,High,High,50,Mission_Critical,Service Portal,P2
+Network,Corporate Network,High,Medium,200,Business_Critical,Service Portal,P2
+Application,IT Service Portal,Medium,High,15,Important,Service Portal,P3
+Network,Corporate Network,High,Low,200,Business_Critical,Service Portal,P3
+Application,Payroll Application,High,Medium,100,Business_Critical,Service Portal,P2
+Network,Corporate Network,High,Medium,50,Business_Critical,Service Portal,P2
+Network,Corporate VPN,Critical,High,500,Business_Critical,Service Portal,P1
+Access,Identity Management,Medium,High,10,Mission_Critical,Service Portal,P3
+Database,Database Platform,High,High,75,Mission_Critical,Support Engineer,P2
+Network,DNS Service,Medium,High,40,Important,Support Engineer,P3
+Security,Security Monitoring,Medium,High,25,Mission_Critical,Monitoring Alert,P2
+Application,Payroll Application,Medium,High,40,Business_Critical,Service Portal,P2
+Network,Corporate Network,High,High,50,Business_Critical,Support Engineer,P2
+Database,Database Platform,Critical,Critical,250,Mission_Critical,Monitoring Alert,P1
+Network,DNS Service,Medium,High,40,Important,Phone,P3
+Infrastructure,Virtualization Platform,Medium,Medium,40,Business_Critical,Service Portal,P3
+Application,CRM Platform,High,Medium,75,Important,Service Portal,P3
+Application,CRM Platform,High,High,50,Important,Email,P2
+Database,Database Platform,Critical,High,750,Mission_Critical,Support Engineer,P1
+Network,Corporate VPN,Medium,High,10,Business_Critical,Email,P2
+Network,Corporate Network,Medium,High,5,Business_Critical,Support Engineer,P2
+Access,Identity Management,High,High,50,Mission_Critical,Monitoring Alert,P2
+Network,Corporate Network,High,High,200,Business_Critical,Service Portal,P2
+Infrastructure,File Storage,Medium,High,25,Important,Support Engineer,P3
+Database,Database Platform,High,High,300,Mission_Critical,Email,P2
+Cloud,Cloud Infrastructure,High,Medium,50,Business_Critical,Monitoring Alert,P2
+Application,IT Service Portal,Medium,Medium,5,Important,Service Portal,P3
+Cloud,Cloud Infrastructure,High,Low,150,Business_Critical,Email,P3
+Application,Email Service,Critical,High,350,Business_Critical,Service Portal,P2
+Application,ERP Platform,Critical,High,1000,Mission_Critical,Support Engineer,P1
+Hardware,Endpoint Management,Low,Low,1,Important,Service Portal,P4
+Network,Corporate VPN,High,Low,75,Business_Critical,Support Engineer,P3
+Cloud,Cloud Infrastructure,High,High,200,Business_Critical,Support Engineer,P2
+Network,Corporate VPN,Medium,High,5,Business_Critical,Email,P2
+Application,CRM Platform,High,Medium,200,Important,Service Portal,P3
+Application,CRM Platform,Low,Low,8,Important,Monitoring Alert,P4
+Application,Email Service,Critical,High,200,Business_Critical,Automated Detection,P2
+Application,Payroll Application,High,High,50,Business_Critical,Email,P2
+Network,Corporate VPN,High,High,100,Business_Critical,Phone,P2
+Access,Identity Management,Medium,High,5,Mission_Critical,Support Engineer,P2
+Application,Monitoring Platform,Low,Medium,1,Important,Automated Detection,P4
+Application,Payroll Application,Medium,Medium,15,Business_Critical,Monitoring Alert,P3
+Application,Email Service,High,High,150,Business_Critical,Service Portal,P2
+Infrastructure,Virtualization Platform,Medium,High,25,Business_Critical,Email,P2
+Infrastructure,Virtualization Platform,High,Medium,50,Business_Critical,Monitoring Alert,P2
+Application,Payroll Application,Low,Medium,5,Business_Critical,Support Engineer,P3
+Application,ERP Platform,High,High,75,Mission_Critical,Monitoring Alert,P1
+Application,CRM Platform,Medium,Medium,40,Important,Support Engineer,P3
+Cloud,Cloud Infrastructure,Medium,High,100,Business_Critical,Service Portal,P2
+Network,DNS Service,Medium,High,40,Important,Phone,P3
+Application,ERP Platform,Critical,Critical,250,Mission_Critical,Support Engineer,P1
+Network,Corporate VPN,Medium,Medium,5,Business_Critical,Automated Detection,P4
+Network,DNS Service,Low,Medium,5,Important,Monitoring Alert,P4
+Network,Corporate VPN,Medium,Medium,25,Business_Critical,Automated Detection,P3
+Infrastructure,File Storage,High,Medium,30,Important,Service Portal,P3
+Security,Security Monitoring,Critical,Critical,250,Mission_Critical,Automated Detection,P1
+Network,DNS Service,Medium,High,150,Important,Email,P3
+Application,CRM Platform,Low,Low,5,Important,Automated Detection,P4
+Database,Database Platform,Medium,High,40,Mission_Critical,Monitoring Alert,P2
+Access,Identity Management,High,Critical,75,Mission_Critical,Email,P1
+Application,Email Service,High,High,500,Business_Critical,Automated Detection,P2
+Network,Corporate VPN,Medium,High,25,Business_Critical,Support Engineer,P2
+Database,Database Platform,High,Critical,75,Mission_Critical,Support Engineer,P1
+Infrastructure,File Storage,High,Medium,100,Important,Service Portal,P3
+Network,Corporate VPN,Medium,Medium,10,Business_Critical,Service Portal,P3
+Infrastructure,File Storage,Medium,High,150,Important,Automated Detection,P4
+Application,Payroll Application,Medium,Medium,15,Business_Critical,Service Portal,P3
+Infrastructure,File Storage,Medium,High,100,Important,Phone,P3
+Application,Payroll Application,High,High,50,Business_Critical,Automated Detection,P2
+Security,Security Monitoring,High,High,100,Mission_Critical,Monitoring Alert,P2
+Application,CRM Platform,Medium,Medium,40,Important,Email,P3
+Application,IT Service Portal,Medium,High,25,Important,Service Portal,P3
+Network,DNS Service,High,High,300,Important,Service Portal,P2
+Access,Identity Management,Medium,High,25,Mission_Critical,Monitoring Alert,P2
+Access,Identity Management,High,High,150,Mission_Critical,Service Portal,P2
+Application,Email Service,High,High,30,Business_Critical,Phone,P2
+Infrastructure,Virtualization Platform,Medium,Medium,15,Business_Critical,Email,P3
+Application,Email Service,Critical,Critical,500,Business_Critical,Service Portal,P1
+Application,IT Service Portal,Medium,Medium,100,Important,Service Portal,P3
+Network,Corporate VPN,High,Medium,150,Business_Critical,Phone,P2
+Application,CRM Platform,Medium,High,5,Important,Service Portal,P3
+Infrastructure,Virtualization Platform,Medium,Medium,100,Business_Critical,Email,P3
+Security,Security Monitoring,High,Critical,100,Mission_Critical,Automated Detection,P1
+Infrastructure,File Storage,Low,Medium,5,Important,Automated Detection,P4
+Infrastructure,Virtualization Platform,Critical,Critical,1000,Business_Critical,Phone,P1
+Application,Payroll Application,Medium,Medium,25,Business_Critical,Automated Detection,P3
+Network,DNS Service,Low,Low,12,Important,Phone,P4
+Cloud,Cloud Infrastructure,High,Medium,50,Business_Critical,Service Portal,P2
+Application,Email Service,High,High,300,Business_Critical,Service Portal,P2
+Network,Corporate VPN,High,Low,150,Business_Critical,Service Portal,P3
+Access,Identity Management,Critical,High,500,Mission_Critical,Service Portal,P1
+Application,Email Service,Medium,High,60,Business_Critical,Service Portal,P2
+Application,Email Service,Medium,Medium,60,Business_Critical,Service Portal,P3
+Security,Security Monitoring,Critical,High,200,Mission_Critical,Monitoring Alert,P1
+Network,Corporate Network,High,Medium,75,Business_Critical,Service Portal,P2
+Cloud,Cloud Infrastructure,Medium,High,15,Business_Critical,Service Portal,P2
+Application,CRM Platform,Low,Low,8,Important,Email,P4
+Infrastructure,File Storage,Low,Medium,8,Important,Service Portal,P4
+Application,Payroll Application,Medium,Medium,25,Business_Critical,Service Portal,P3
+Application,Email Service,Critical,Critical,1000,Business_Critical,Service Portal,P1
+Network,Corporate Network,Critical,Critical,350,Business_Critical,Email,P1
+Application,CRM Platform,Medium,High,100,Important,Service Portal,P3
+Cloud,Cloud Infrastructure,Medium,High,10,Business_Critical,Service Portal,P1
+Infrastructure,File Storage,Medium,Medium,5,Important,Email,P3
+Network,DNS Service,Medium,High,40,Important,Service Portal,P3
+Application,CRM Platform,Medium,High,40,Important,Support Engineer,P3
+Access,Identity Management,Medium,High,5,Mission_Critical,Email,P2
+Database,Database Platform,Medium,Medium,40,Mission_Critical,Support Engineer,P2
+Cloud,Cloud Infrastructure,Medium,Medium,10,Business_Critical,Support Engineer,P3
+Network,Corporate Network,High,Medium,150,Business_Critical,Service Portal,P2
+Database,Database Platform,Medium,Medium,40,Mission_Critical,Service Portal,P2
+Network,Corporate Network,High,Medium,50,Business_Critical,Email,P2
+Network,DNS Service,Low,Low,1,Important,Automated Detection,P4
+Application,Email Service,High,Low,75,Business_Critical,Service Portal,P3
+Security,Security Monitoring,Critical,High,250,Mission_Critical,Monitoring Alert,P1
+Application,ERP Platform,Critical,Critical,200,Mission_Critical,Monitoring Alert,P1
+Hardware,Endpoint Management,High,Medium,75,Important,Support Engineer,P3
+Application,ERP Platform,Critical,High,200,Mission_Critical,Email,P1
+Application,Payroll Application,Medium,High,100,Business_Critical,Service Portal,P2
+Application,CRM Platform,Low,Medium,3,Important,Support Engineer,P4
+Application,IT Service Portal,Medium,High,40,Important,Phone,P3
+Application,CRM Platform,Medium,Medium,100,Important,Support Engineer,P3
+Network,Corporate Network,Medium,Medium,60,Business_Critical,Monitoring Alert,P3
+Database,Database Platform,Medium,High,5,Mission_Critical,Automated Detection,P2
+Application,Email Service,Low,Medium,1,Business_Critical,Support Engineer,P3
+Application,Monitoring Platform,Low,Medium,12,Important,Automated Detection,P4
+Hardware,Endpoint Management,Low,Medium,20,Important,Phone,P4
+Hardware,Endpoint Management,Medium,Medium,10,Important,Phone,P3
+Network,Corporate Network,High,High,30,Business_Critical,Phone,P2
+Network,Corporate Network,High,Medium,30,Business_Critical,Email,P2
+Network,Corporate Network,High,High,100,Business_Critical,Monitoring Alert,P2
+Application,CRM Platform,Low,Medium,3,Important,Service Portal,P4
+Network,DNS Service,High,Medium,75,Important,Support Engineer,P3
+Access,Identity Management,Critical,Critical,1000,Mission_Critical,Service Portal,P1
+Application,Payroll Application,Medium,Medium,40,Business_Critical,Monitoring Alert,P3
+Infrastructure,File Storage,Medium,High,60,Important,Service Portal,P3
+Application,Payroll Application,Critical,Critical,350,Business_Critical,Monitoring Alert,P2
+Network,Corporate VPN,High,High,100,Business_Critical,Phone,P2
+Application,Email Service,High,Medium,75,Business_Critical,Support Engineer,P2
+Hardware,Endpoint Management,Medium,Medium,40,Important,Email,P3
+Database,Database Platform,Critical,Critical,1000,Mission_Critical,Automated Detection,P1
+Network,Corporate Network,High,High,150,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,High,Medium,150,Important,Phone,P3
+Application,Monitoring Platform,Medium,Medium,15,Important,Monitoring Alert,P3
+Security,Security Monitoring,Critical,High,750,Mission_Critical,Monitoring Alert,P1
+Network,Corporate Network,High,Medium,75,Business_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Critical,Critical,150,Business_Critical,Support Engineer,P1
+Application,ERP Platform,Critical,Critical,250,Mission_Critical,Service Portal,P1
+Application,CRM Platform,Medium,High,5,Important,Support Engineer,P3
+Application,ERP Platform,Critical,High,750,Mission_Critical,Support Engineer,P1
+Security,Security Monitoring,Critical,Critical,350,Mission_Critical,Automated Detection,P1
+Cloud,Cloud Infrastructure,Critical,High,750,Business_Critical,Automated Detection,P1
+Application,CRM Platform,High,Medium,150,Important,Support Engineer,P3
+Application,Email Service,Medium,High,15,Business_Critical,Service Portal,P2
+Application,ERP Platform,High,Critical,100,Mission_Critical,Email,P1
+Network,Corporate Network,High,High,30,Business_Critical,Service Portal,P2
+Network,Corporate Network,High,Medium,200,Business_Critical,Support Engineer,P2
+Access,Identity Management,Medium,High,150,Mission_Critical,Email,P1
+Infrastructure,File Storage,Medium,High,15,Important,Monitoring Alert,P3
+Database,Database Platform,High,High,100,Mission_Critical,Service Portal,P2
+Network,DNS Service,High,Medium,200,Important,Support Engineer,P3
+Application,IT Service Portal,Low,Medium,5,Important,Service Portal,P4
+Database,Database Platform,Medium,Medium,40,Mission_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,High,Low,100,Business_Critical,Monitoring Alert,P3
+Network,Corporate Network,High,Low,30,Business_Critical,Monitoring Alert,P3
+Infrastructure,File Storage,High,Medium,100,Important,Monitoring Alert,P3
+Application,Monitoring Platform,Medium,High,10,Important,Service Portal,P3
+Infrastructure,File Storage,Low,Medium,2,Important,Service Portal,P4
+Application,IT Service Portal,High,Medium,75,Important,Monitoring Alert,P3
+Access,Identity Management,Medium,Medium,40,Mission_Critical,Service Portal,P2
+Security,Security Monitoring,Medium,High,60,Mission_Critical,Monitoring Alert,P2
+Cloud,Cloud Infrastructure,Medium,High,25,Business_Critical,Email,P2
+Cloud,Cloud Infrastructure,Medium,High,5,Business_Critical,Service Portal,P2
+Application,ERP Platform,Medium,High,40,Mission_Critical,Service Portal,P3
+Application,Monitoring Platform,Medium,Medium,15,Important,Automated Detection,P3
+Infrastructure,Virtualization Platform,High,High,200,Business_Critical,Support Engineer,P2
+Cloud,Cloud Infrastructure,High,Medium,100,Business_Critical,Service Portal,P2
+Infrastructure,File Storage,Low,Medium,8,Important,Service Portal,P4
+Network,Corporate VPN,Medium,Medium,15,Business_Critical,Service Portal,P3
+Database,Database Platform,Medium,Medium,40,Mission_Critical,Automated Detection,P2
+Cloud,Cloud Infrastructure,Critical,High,250,Business_Critical,Support Engineer,P2
+Application,CRM Platform,High,Medium,75,Important,Monitoring Alert,P3
+Application,Email Service,High,High,30,Business_Critical,Service Portal,P2
+Network,Corporate VPN,High,High,300,Business_Critical,Monitoring Alert,P2
+Application,ERP Platform,Critical,Critical,500,Mission_Critical,Service Portal,P1
+Application,Payroll Application,Medium,Medium,5,Business_Critical,Phone,P3
+Database,Database Platform,Critical,High,1500,Mission_Critical,Monitoring Alert,P1
+Application,CRM Platform,Medium,High,25,Important,Phone,P3
+Access,Identity Management,Critical,High,350,Mission_Critical,Email,P1
+Application,Monitoring Platform,High,High,50,Important,Monitoring Alert,P2
+Application,Email Service,Critical,High,200,Business_Critical,Service Portal,P2
+Application,IT Service Portal,High,High,30,Important,Monitoring Alert,P2
+Infrastructure,Virtualization Platform,High,Medium,100,Business_Critical,Phone,P2
+Infrastructure,File Storage,Medium,Medium,5,Important,Support Engineer,P3
+Infrastructure,Virtualization Platform,Low,Medium,2,Business_Critical,Email,P3
+Database,Database Platform,Critical,High,250,Mission_Critical,Email,P1
+Security,Security Monitoring,Critical,High,750,Mission_Critical,Monitoring Alert,P1
+Cloud,Cloud Infrastructure,Medium,High,150,Business_Critical,Support Engineer,P2
+Application,Payroll Application,Critical,Critical,1000,Business_Critical,Email,P1
+Cloud,Cloud Infrastructure,High,High,30,Business_Critical,Monitoring Alert,P2
+Network,Corporate Network,Critical,High,750,Business_Critical,Phone,P1
+Infrastructure,File Storage,High,Medium,50,Important,Support Engineer,P3
+Cloud,Cloud Infrastructure,High,Medium,30,Business_Critical,Monitoring Alert,P2
+Infrastructure,File Storage,High,Medium,100,Important,Support Engineer,P3
+Infrastructure,Virtualization Platform,High,Medium,30,Business_Critical,Service Portal,P2
+Hardware,Endpoint Management,High,Medium,50,Important,Monitoring Alert,P3
+Infrastructure,Virtualization Platform,Critical,Critical,350,Business_Critical,Email,P1
+Network,Corporate VPN,High,Medium,300,Business_Critical,Phone,P2
+Application,IT Service Portal,Low,Medium,2,Important,Service Portal,P4
+Application,CRM Platform,Medium,High,60,Important,Service Portal,P3
+Network,Corporate VPN,Medium,High,25,Business_Critical,Service Portal,P2
+Security,Security Monitoring,High,High,300,Mission_Critical,Monitoring Alert,P2
+Hardware,Endpoint Management,Low,Low,5,Important,Service Portal,P4
+Hardware,Endpoint Management,Low,Medium,8,Important,Service Portal,P4
+Access,Identity Management,High,High,300,Mission_Critical,Email,P2
+Network,Corporate VPN,Medium,High,60,Business_Critical,Monitoring Alert,P3
+Infrastructure,File Storage,Medium,Medium,40,Important,Service Portal,P3
+Cloud,Cloud Infrastructure,High,Medium,75,Business_Critical,Automated Detection,P2
+Hardware,Endpoint Management,High,Medium,75,Important,Monitoring Alert,P3
+Application,Email Service,High,High,75,Business_Critical,Support Engineer,P2
+Network,Corporate Network,Critical,High,750,Business_Critical,Automated Detection,P1
+Network,Corporate VPN,High,High,50,Business_Critical,Phone,P2
+Network,Corporate Network,Medium,Medium,15,Business_Critical,Support Engineer,P3
+Application,Payroll Application,High,Low,100,Business_Critical,Support Engineer,P3
+Application,Email Service,High,High,200,Business_Critical,Automated Detection,P2
+Application,Email Service,Medium,High,40,Business_Critical,Email,P2

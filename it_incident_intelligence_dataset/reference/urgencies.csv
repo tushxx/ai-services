@@ -1,0 +1,5 @@
+urgency_id,urgency_name,description,severity_rank
+URG001,Low,Resolution can be planned without immediate operational action,1
+URG002,Medium,Issue requires timely attention but operations can continue,2
+URG003,High,Issue requires prompt technical attention,3
+URG004,Critical,Immediate attention is required to minimize major business disruption,4

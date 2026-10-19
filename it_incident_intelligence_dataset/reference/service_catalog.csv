@@ -1,0 +1,17 @@
+service_id,service_name,category_id,category_name,assignment_group_id,assignment_group_name,default_criticality
+SRV001,Corporate VPN,CAT001,Network,GRP002,Network Operations,Business_Critical
+SRV002,Corporate Network,CAT001,Network,GRP002,Network Operations,Business_Critical
+SRV003,DNS Service,CAT001,Network,GRP002,Network Operations,Important
+SRV004,Email Service,CAT002,Application,GRP005,Application Support,Business_Critical
+SRV005,Identity Management,CAT006,Access,GRP008,Identity and Access Management,Mission_Critical
+SRV006,Payroll Application,CAT002,Application,GRP005,Application Support,Business_Critical
+SRV007,CRM Platform,CAT002,Application,GRP005,Application Support,Important
+SRV008,ERP Platform,CAT002,Application,GRP005,Application Support,Mission_Critical
+SRV009,Database Platform,CAT003,Database,GRP003,Database Operations,Mission_Critical
+SRV010,File Storage,CAT004,Infrastructure,GRP007,Infrastructure Operations,Important
+SRV011,Cloud Infrastructure,CAT008,Cloud,GRP004,Cloud Operations,Business_Critical
+SRV012,Monitoring Platform,CAT002,Application,GRP005,Application Support,Important
+SRV013,Endpoint Management,CAT007,Hardware,GRP009,Endpoint Operations,Important
+SRV014,Security Monitoring,CAT005,Security,GRP006,Security Operations,Mission_Critical
+SRV015,IT Service Portal,CAT002,Application,GRP005,Application Support,Important
+SRV016,Virtualization Platform,CAT004,Infrastructure,GRP007,Infrastructure Operations,Business_Critical

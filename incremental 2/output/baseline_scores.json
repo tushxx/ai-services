@@ -1,0 +1,48 @@
+{
+  "accuracy": 0.9973288814691152,
+  "per_class": {
+    "genuine_high_usage": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1493.0
+    },
+    "estimated_read": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 674.0
+    },
+    "meter_fault": {
+      "precision": 0.9824175824175824,
+      "recall": 1.0,
+      "f1-score": 0.991130820399113,
+      "support": 447.0
+    },
+    "tamper_suspected": {
+      "precision": 1.0,
+      "recall": 0.9656652360515021,
+      "f1-score": 0.982532751091703,
+      "support": 233.0
+    },
+    "tariff_mismatch": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 148.0
+    },
+    "accuracy": 0.9973288814691152,
+    "macro avg": {
+      "precision": 0.9964835164835165,
+      "recall": 0.9931330472103005,
+      "f1-score": 0.9947327142981631,
+      "support": 2995.0
+    },
+    "weighted avg": {
+      "precision": 0.9973758461905373,
+      "recall": 0.9973288814691152,
+      "f1-score": 0.9973173982379868,
+      "support": 2995.0
+    }
+  }
+}

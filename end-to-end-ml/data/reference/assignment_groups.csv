@@ -1,0 +1,10 @@
+assignment_group_id,assignment_group_name,description
+GRP001,Service Desk,Central IT incident intake and first-level support
+GRP002,Network Operations,Network connectivity routing switching VPN and DNS support
+GRP003,Database Operations,Database availability performance and connectivity support
+GRP004,Cloud Operations,Cloud infrastructure and platform support
+GRP005,Application Support,Enterprise application support and troubleshooting
+GRP006,Security Operations,Security monitoring investigation and response
+GRP007,Infrastructure Operations,Server storage virtualization and infrastructure support
+GRP008,Identity and Access Management,Identity authentication authorization and access support
+GRP009,Endpoint Operations,Corporate endpoint and device management support

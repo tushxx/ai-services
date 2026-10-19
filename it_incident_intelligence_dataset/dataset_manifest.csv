@@ -1,0 +1,15 @@
+file,record_count
+reference/categories.csv,8
+reference/services.csv,16
+reference/assignment_groups.csv,9
+reference/reported_sources.csv,6
+reference/statuses.csv,5
+reference/impacts.csv,4
+reference/urgencies.csv,4
+reference/service_criticality.csv,4
+reference/priorities.csv,4
+reference/service_catalog.csv,16
+reference/priority_rules.csv,20
+reference/data_dictionary.csv,15
+raw/incidents.csv,750
+processed/incidents_ml_dataset.csv,750

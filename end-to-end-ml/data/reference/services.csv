@@ -1,0 +1,17 @@
+service_id,service_name,service_description
+SRV001,Corporate VPN,Remote access service for employees
+SRV002,Corporate Network,Enterprise wired and wireless network service
+SRV003,DNS Service,Enterprise domain name resolution service
+SRV004,Email Service,Corporate email and messaging service
+SRV005,Identity Management,Central identity and authentication service
+SRV006,Payroll Application,Employee payroll processing application
+SRV007,CRM Platform,Customer relationship management platform
+SRV008,ERP Platform,Enterprise resource planning platform
+SRV009,Database Platform,Enterprise relational database platform
+SRV010,File Storage,Enterprise file storage and sharing service
+SRV011,Cloud Infrastructure,Enterprise cloud compute and infrastructure services
+SRV012,Monitoring Platform,Infrastructure and application monitoring service
+SRV013,Endpoint Management,Corporate endpoint management service
+SRV014,Security Monitoring,Enterprise security monitoring service
+SRV015,IT Service Portal,IT service request and incident management portal
+SRV016,Virtualization Platform,Enterprise virtualization infrastructure

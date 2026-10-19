@@ -1,0 +1,7 @@
+exception_class,precision,recall,support
+genuine_high_usage,1.0,1.0,1493
+estimated_read,1.0,1.0,674
+meter_fault,1.0,1.0,447
+tamper_suspected,1.0,1.0,233
+tariff_mismatch,1.0,1.0,148
+total,1.0,1.0,2995

@@ -1,0 +1,6 @@
+status_id,status_name,description
+STS001,NEW,Incident has been created and is awaiting assignment
+STS002,ASSIGNED,Incident has been assigned to a support group
+STS003,IN_PROGRESS,Support team is actively investigating or resolving the incident
+STS004,RESOLVED,Technical resolution has been applied and incident is awaiting closure
+STS005,CLOSED,Incident has been completed and formally closed

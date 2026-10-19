@@ -1,0 +1,5 @@
+impact_id,impact_name,description,severity_rank
+IMP001,Low,Limited effect on an individual user or non-critical activity,1
+IMP002,Medium,Effect on a small group or business function,2
+IMP003,High,Significant effect on multiple users or an important business function,3
+IMP004,Critical,Widespread effect on a business-critical or mission-critical service,4

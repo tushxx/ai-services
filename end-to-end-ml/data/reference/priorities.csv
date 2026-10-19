@@ -1,0 +1,5 @@
+priority_id,priority_code,priority_name,description,response_target_hours
+PRI001,P1,Critical,Critical business impact requiring immediate response,1
+PRI002,P2,High,Significant business impact requiring accelerated response,4
+PRI003,P3,Medium,Moderate business impact requiring standard response,8
+PRI004,P4,Low,Limited business impact that can be handled through normal operational queues,24
